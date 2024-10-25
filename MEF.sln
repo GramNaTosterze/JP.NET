@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35417.141 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF.Ext.Arithmetic", "MEF.Ext.ArithmeticCalc\MEF.Ext.Arithmetic.csproj", "{DCE19FA1-EE4F-4D4E-9DAD-7B58BDCC7C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF.Ext.Set", "MEF.Ext.SetCalc\MEF.Ext.Set.csproj", "{A8E7A9A4-59AA-419D-B18E-4D88CFA882A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF.Ext", "MEF.Ext\MEF.Ext.csproj", "{56CA0B59-931A-4597-9305-892F40749ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF.App", "MEF.App\MEF.App.csproj", "{57E9324F-1E41-479A-AB37-B5EA12E168B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE19FA1-EE4F-4D4E-9DAD-7B58BDCC7C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE19FA1-EE4F-4D4E-9DAD-7B58BDCC7C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE19FA1-EE4F-4D4E-9DAD-7B58BDCC7C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE19FA1-EE4F-4D4E-9DAD-7B58BDCC7C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E7A9A4-59AA-419D-B18E-4D88CFA882A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E7A9A4-59AA-419D-B18E-4D88CFA882A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E7A9A4-59AA-419D-B18E-4D88CFA882A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E7A9A4-59AA-419D-B18E-4D88CFA882A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CA0B59-931A-4597-9305-892F40749ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CA0B59-931A-4597-9305-892F40749ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CA0B59-931A-4597-9305-892F40749ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CA0B59-931A-4597-9305-892F40749ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E9324F-1E41-479A-AB37-B5EA12E168B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E9324F-1E41-479A-AB37-B5EA12E168B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E9324F-1E41-479A-AB37-B5EA12E168B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E9324F-1E41-479A-AB37-B5EA12E168B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
