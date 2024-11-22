@@ -18,6 +18,9 @@
     <ClCompile Include="CppCLIWPFCodeDOM.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="DataModel.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataModel.h">
@@ -26,5 +29,8 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainWindow.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

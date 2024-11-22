@@ -1,5 +1,7 @@
 #include "DataModel.h"
 
+using namespace Microsoft::CodeAnalysis;
+
 DataModel::DataModel(const String^ codeText)
 {
 	_codeText = _codeText;
